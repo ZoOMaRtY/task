@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.generalPersonalForm {
+    width: 300px;
+}
+
+.generalPersonalForm input {
+    width: 100%;
+    height: 44px;
+    padding: 10px;
+}
